@@ -1,0 +1,1 @@
+in this basic application doen with python, ive coded the methods so that with once initiated it will give 4 options which will allow the user to interact with smoothly adding to their list of chores or activities. 
